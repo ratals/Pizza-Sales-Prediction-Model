@@ -5,7 +5,7 @@ This project utilizes machine learning techniques to forecast pizza sales based 
 ## Key Features:
 
 1.  Preprocessing and cleaning
-2.  Feature engineering and selection
+2.  Feature engineering and selection (This took a long time..)
 3.  Model training and evaluation
 4.  Sales forecasting and analysis
 
