@@ -19,6 +19,7 @@ This project utilizes machine learning techniques to forecast pizza sales based 
 Contributing: Contributions and feedback are welcome! Please feel free to fork the repository, submit pull requests, or open issues for any suggestions or improvements.
 
 by : Ansh Kapoor 
-(I prepared the data according to me)
+
+(Also I have prepared the dataset according to me)
 
 .. Please feel free to modify the code and use your own or other datasets, using this code as a reference.
