@@ -15,4 +15,9 @@ This project utilizes machine learning techniques to forecast pizza sales based 
 3. Numpy, Pandas
 4. Jupyter Notebook
 
-Pls feel free to transform the code and you can use your own or other dataset as well ;using this code as a reference.
+
+Contributing: Contributions and feedback are welcome! Please feel free to fork the repository, submit pull requests, or open issues for any suggestions or improvements.
+
+Code by : Ansh Kapoor 
+
+.. Please feel free to modify the code and use your own or other datasets, using this code as a reference.
