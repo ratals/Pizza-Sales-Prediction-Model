@@ -4,9 +4,9 @@ To optimize data analysis and facilitate insights extraction, I have restructure
 
 The transformation entails the following structure:
 
-Morning Sales (First Row): This row encapsulates the sales figures for pizzas during the morning hours.
-Afternoon Sales (Second Row): The second row provides insights into pizza sales during the afternoon period.
-Night Sales (Third Row): The third row presents data on pizza sales during the night, including aggregated information such as total sales price and total quantity sold.
+* Morning Sales (First Row): This row encapsulates the sales figures for pizzas during the morning hours.
+* Afternoon Sales (Second Row): The second row provides insights into pizza sales during the afternoon period.
+* Night Sales (Third Row): The third row presents data on pizza sales during the night, including aggregated information such as total sales price and total quantity sold.
 
 So as an illustration, consider a dataset spanning approximately 100 days. By applying the aforementioned data transformation methodology, the resulting dataset would contain a total of 100*3 = 300 rows, each offering granular insights into pizza sales dynamics across various times of the day.
 
