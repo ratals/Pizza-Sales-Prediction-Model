@@ -1,6 +1,6 @@
 # Sales Forecasting with Machine Learning
 #### Pizza Sales Forecasting
-This project utilizes machine learning techniques to forecast pizza sales based on various factors such as date, time, pizza size, and category. The main goal is to provide insights into sales patterns and optimize inventory management for a pizza business. The model is trained on a dataset sourced from Kaggle, consisting of over 48,000 records of pizza orders. The implemented machine learning model utlizes a Random Forest Regressor, achieves an R-squared score of '0.88', indicating strong predictive performance.The repository includes Jupyter notebooks, code files.
+This project utilizes machine learning techniques to forecast pizza sales based on various factors such as date, time, pizza size, and category. The main goal is to provide insights into sales patterns and optimize inventory management for a pizza business. The model is trained on a dataset sourced from Kaggle, consisting of over 48,000 records of pizza orders. The implemented machine learning model utlizes a Random Forest Regressor, achieves an R-squared score of '0.90', indicating strong predictive performance.The repository includes Jupyter notebooks, code files.
 
 ## Key Features:
 
